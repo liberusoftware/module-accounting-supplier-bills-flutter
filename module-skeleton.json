@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-supplier-bills-flutter",
+  "capabilityKey": "liberusoftware/module-accounting-supplier-bills",
+  "presentation": "mobile-flutter",
+  "package": "module_accounting_supplier_bills_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/accounting/nextjs/supplier-bills.md",
+  "presentationPlan": "projects/accounting/flutter/supplier-bills.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
